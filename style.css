@@ -1,0 +1,26 @@
+#Me{
+    background-image: url(bk.JPG);
+    height: 50rem;
+    color: white;
+}
+.myimage{
+    padding: 3rem;
+    width: 25rem;
+    height: 25rem;
+    border-radius:50%;
+    
+}
+.btn{
+    margin-top:3rem;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }

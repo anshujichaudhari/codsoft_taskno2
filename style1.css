@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+}
+body{
+    background-image: linear-gradient(to bottom right,rgb(95, 231, 255),rgba(255, 184, 109, 0.775),rgb(133, 11, 255));
+}
+.sidebar {
+    background-color: grey;
+    width: 434px;
+    font-family: 'Signika Negative', sans-serif;
+    height: 100vh;
+
+}
+.sidebar nav li {
+    list-style: none;
+    font-size: 30px;
+    padding: 33px 0; 
+}
+
+.sidebar nav li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+   
+}
+/* .container {
+    float:left;
+  
+  }
+  .sidebar{
+      float:left;
+  }  */
+.sec_box{
+      float:left;
+  }
+  .hello {
+    color:dodgerblue;
+    font-size: 75px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-right: 850px; 
+    text-shadow:4px 4px rgb(0, 0, 0);
+/* font-weight: bolder; */
+}
+
+.name {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Signika Negative', sans-serif;
+    /* padding-right: 1000px; */
+}
+
+.about {
+    font-size: 40px;
+    /* padding-right: 660px; */
+}
+.moreabout {
+    font-size: 26px;
+    margin-top: 23px;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+/* .buttons {
+    margin-top: 340px;
+} */
+.btn {
+    padding: 9px 14px;
+    border-radius: 22px;
+    color: white;
+    background-color: dodgerblue;
+    font-weight: bold;
+    font-size: 21px;
+    margin: 30px;
+    margin-left: 50px;
+    height:70px;
+    width:200px;
+}
+
+
+.btn:hover{
+background-color: white;
+color: dodgerblue;
+}
+
+.devPic img {
+    width: 45vh;
+    padding-left: 900px;
+}
+.sidebar_link:hover{
+    background-color: black;
+ }
